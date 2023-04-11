@@ -3,9 +3,9 @@ entries:
   operator:
   - apiVersion: v2
     appVersion: v5.0.3
-    created: "2023-04-11T21:15:09.908335+01:00"
+    created: "2023-04-11T21:37:26.071424+01:00"
     description: A Helm chart for MinIO Operator
-    digest: 471e3b3c631bcc20b85798fa93e84e830c21a579b9c6d0c5c3a2b024a0e72fa4
+    digest: 683489c56468e9ae066338534588da70eefaaf8cbb5ffeeb2ef28cd6fa364b7b
     home: https://min.io
     icon: https://min.io/resources/img/logo/MINIO_wordmark.png
     keywords:
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://alexgodbehere.github.io/helm-repository/operator-5.0.3.tgz
     version: 5.0.3
-generated: "2023-04-11T21:15:09.906472+01:00"
+generated: "2023-04-11T21:37:26.070207+01:00"
